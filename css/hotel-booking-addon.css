@@ -1,0 +1,17 @@
+.post-type-mphb_booking .page-title-action.button-disabled,
+.mphb_booking_menu_page_mphb_calendar .page-title-action.button-disabled {
+    display: none;
+}
+
+#regina-add-room-form {
+    background: #f9f9f9;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+.regina-pending-room {
+    background: #e7f5ff;
+    padding: 5px 10px;
+    margin-top: 5px;
+    border-left: 4px solid #2196F3;
+}
